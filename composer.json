@@ -1,5 +1,5 @@
 {
-    "name": "florianv/swap",
+    "name": "awmedia/swap",
     "description": "Exchange rates library for PHP",
     "keywords": ["currency", "money", "rate", "conversion", "exchange rates"],
     "license": "MIT",
